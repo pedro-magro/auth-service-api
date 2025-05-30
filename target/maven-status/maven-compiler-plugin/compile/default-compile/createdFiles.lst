@@ -1,0 +1,4 @@
+br\com\nailDesigner\auth\api\Dtos\RegisterRequest.class
+br\com\nailDesigner\auth\api\Dtos\LoginRequest.class
+br\com\nailDesigner\auth\api\Clients\AuthServiceClient.class
+br\com\nailDesigner\auth\api\Dtos\LoginResponse.class
